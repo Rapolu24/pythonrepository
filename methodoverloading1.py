@@ -11,7 +11,7 @@ class One:
  def _(c:float):
    c+=10.5
    print("addition of float value",c)
-
+   print("subtraction of float value",b)
 obj=One
 obj.add(10.2)
 obj.add(10)
